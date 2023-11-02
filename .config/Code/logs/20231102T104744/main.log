@@ -1,0 +1,20 @@
+2023-11-02 10:47:45.134 [info] update#setState idle
+2023-11-02 10:48:14.997 [info] update#setState checking for updates
+2023-11-02 10:48:15.000 [info] update#setState idle
+2023-11-02 10:49:13.710 [info] update#setState checking for updates
+2023-11-02 10:49:13.717 [info] update#setState idle
+2023-11-02 10:49:28.746 [info] update#setState checking for updates
+2023-11-02 10:49:28.762 [info] update#setState idle
+2023-11-02 11:00:31.949 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: settings.lastSyncUserData Length: 46
+2023-11-02 11:00:32.807 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: tasks.lastSyncUserData Length: 46
+2023-11-02 11:00:34.490 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: f66d08bf-53ad-4124-bc21-21978edf7402.settings.lastSyncUserData Length: 46
+2023-11-02 11:00:35.339 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: __$__targetStorageMarker, f66d08bf-53ad-4124-bc21-21978edf7402.tasks.lastSyncUserData Length: 7486
+2023-11-02 11:00:36.033 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: f66d08bf-53ad-4124-bc21-21978edf7402.extensions.lastSyncUserData, sync.lastSyncTime Length: 2673
+2023-11-02 11:02:01.910 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorOverrideService.cache Length: 329
+2023-11-02 11:02:01.910 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?)). Details: Keys: __$__targetStorageMarker, memento/workbench.parts.editor Length: 1998
+2023-11-02 11:02:02.447 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?)). Details: Keys: productIconThemeData, iconThemeData, colorThemeData Length: 105080
+2023-11-02 11:02:04.026 [error] [storage state.vscdb] backup(): Error: ENOENT: no such file or directory, stat '/home/felps/.config/Code/User/profiles/16dd3b05/globalStorage/state.vscdb'
+2023-11-02 11:02:04.026 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: editorFontInfo Length: 466
+2023-11-02 11:02:04.026 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?)). Details: Keys: __$__targetStorageMarker, lifecyle.lastShutdownReason, workbench.sideBar.position Length: 1795
+2023-11-02 11:02:04.098 [info] Extension host with pid 51391 exited with code: 0, signal: unknown.
+2023-11-02 11:02:04.099 [error] Error: ENOENT: no such file or directory, unlink '/home/felps/.config/Code/User/workspaceStorage/1698932810681/state.vscdb'

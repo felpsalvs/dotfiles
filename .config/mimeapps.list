@@ -1,0 +1,11 @@
+[Default Applications]
+x-scheme-handler/http=brave_brave.desktop
+application/xhtml+xml=brave_brave.desktop
+text/html=brave_brave.desktop
+x-scheme-handler/https=brave_brave.desktop
+
+[Added Associations]
+x-scheme-handler/http=brave_brave.desktop;
+application/xhtml+xml=brave_brave.desktop;
+text/html=brave_brave.desktop;
+x-scheme-handler/https=brave_brave.desktop;

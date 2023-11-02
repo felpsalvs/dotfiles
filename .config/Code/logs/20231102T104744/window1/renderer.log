@@ -1,0 +1,17 @@
+2023-11-02 10:47:45.617 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-02 10:47:48.778 [info] [perf] Render performance baseline is 178ms
+2023-11-02 10:49:37.910 [info] [lifecycle]: Shutdown was prevented (id: veto.settingsSync)
+2023-11-02 10:49:48.676 [warning] [Prisma.prisma-insider]: Cannot register 'prisma.fileWatcher'. This property is already registered.
+2023-11-02 10:49:48.677 [warning] [Prisma.prisma-insider]: Cannot register 'prisma.trace.server'. This property is already registered.
+2023-11-02 10:49:48.677 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2023-11-02 10:49:48.720 [info] [Prisma.prisma-insider]: Command `prisma.restartLanguageServer` already registered by Prisma (Prisma.prisma)
+2023-11-02 10:49:48.721 [info] [Prisma.prisma-insider]: Command `prisma.filewatcherEnable` already registered by Prisma (Prisma.prisma)
+2023-11-02 10:49:48.721 [info] [Prisma.prisma-insider]: Command `prisma.filewatcherDisable` already registered by Prisma (Prisma.prisma)
+2023-11-02 10:49:48.772 [error] [laurencebahiirwa.elementor-snippets]: Unknown language in `contributes.elementor-snippets.language`. Provided value: js
+2023-11-02 10:49:52.233 [error] [Extension Host] (node:51391) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-11-02 11:02:03.935 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/felps/.config/Code/User/settings.json 
+2023-11-02 11:02:03.949 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/felps/.config/Code/User/settings.json 
+2023-11-02 11:02:03.956 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/felps/.config/Code/User/settings.json 
+2023-11-02 11:02:03.966 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/felps/.config/Code/User/settings.json 
+2023-11-02 11:02:03.970 [warning] [backup tracker] suspended, ignoring register event vscode-userdata:/home/felps/.config/Code/User/settings.json 
