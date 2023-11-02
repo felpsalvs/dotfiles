@@ -130,3 +130,5 @@ fi
 
 # Enhanced form of menu completion called `menu selection'
 zmodload -i zsh/complist
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
