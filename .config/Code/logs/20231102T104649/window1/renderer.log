@@ -1,6 +1,0 @@
-2023-11-02 10:46:50.851 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2023-11-02 10:46:51.195 [info] Started initializing default profile extensions in extensions installation folder. file:///home/felps/.vscode/extensions
-2023-11-02 10:46:51.662 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/felps/.vscode/extensions
-2023-11-02 10:46:54.341 [info] [perf] Render performance baseline is 165ms
-2023-11-02 10:47:37.925 [info] Settings Sync: Updating due to change in sessions
-2023-11-02 10:47:37.926 [info] Settings Sync: Updated current session 364300624efbf51d
